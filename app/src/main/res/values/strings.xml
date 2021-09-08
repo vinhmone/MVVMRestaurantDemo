@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">MVVMRestaurantDemo</string>
+    <string name="error_binding">Binding is not valid</string>
+    <string name="text_address">Address:</string>
+    <string name="text_close_at">Close at:</string>
+    <string name="text_description">Description:</string>
+    <string name="text_open_at">Open at:</string>
+    <string name="text_review">Review:</string>
+    <string name="value_open">true</string>
+    <string name="values_close">false</string>
 </resources>
